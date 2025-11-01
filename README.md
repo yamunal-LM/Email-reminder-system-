@@ -26,4 +26,4 @@ Phase 5 — Demonstration & Documentation
     Screenshots and API documentation
     GitHub README and setup guide
 
----Thank you---// README.md placeholder
+---Thank you---// 
